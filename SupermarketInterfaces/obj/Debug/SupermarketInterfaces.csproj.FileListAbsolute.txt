@@ -1,0 +1,6 @@
+D:\Downloads\CheckoutExercise\CheckoutExercise\SupermarketInterfaces\bin\Debug\SupermarketInterfaces.dll
+D:\Downloads\CheckoutExercise\CheckoutExercise\SupermarketInterfaces\bin\Debug\SupermarketInterfaces.pdb
+D:\Downloads\CheckoutExercise\CheckoutExercise\SupermarketInterfaces\obj\Debug\SupermarketInterfaces.csprojAssemblyReference.cache
+D:\Downloads\CheckoutExercise\CheckoutExercise\SupermarketInterfaces\obj\Debug\SupermarketInterfaces.csproj.CoreCompileInputs.cache
+D:\Downloads\CheckoutExercise\CheckoutExercise\SupermarketInterfaces\obj\Debug\SupermarketInterfaces.dll
+D:\Downloads\CheckoutExercise\CheckoutExercise\SupermarketInterfaces\obj\Debug\SupermarketInterfaces.pdb
